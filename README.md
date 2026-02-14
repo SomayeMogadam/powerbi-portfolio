@@ -1,12 +1,18 @@
-# Power BI Portfolio
+Student Enrollment Analytics – Power BI
 
-## Student Enrollment Analytics
-• Interactive dashboards with slicers
-• Drill-through pages for detailed analysis
-• Time-based comparison of enrollments
+Business Problem:
+Analyze student enrollment trends by school, grade, major, and registration date.
 
-Live Report:
-https://app.powerbi.com/view?r=...
+Key Features:
+• Interactive slicers
+• Drill-through pages
+• Time-based comparison
+• Data modeling and DAX measures
+
+Access:
+Power BI Service report is private.
+Interactive demo available upon request.
 
 Tools:
-Power BI, DAX, Power Query
+Power BI, Power Query, DAX
+
