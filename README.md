@@ -1,7 +1,6 @@
-Student Enrollment Analytics – Power BI
-
+Statistics and information on the schools of Tonekabon County-power bi
 Business Problem:
-Analyze student enrollment trends by school, grade, major, and registration date.
+Analysis of school data, including selection of the educational level, the number of schools in the selected level within the region, and then—by selecting a specific school—the display of that school’s information such as the number of classes, the number of students, and the school’s location (urban or rural).
 
 Key Features:
 • Interactive slicers
